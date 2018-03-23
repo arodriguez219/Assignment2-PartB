@@ -3,7 +3,7 @@ function setup(){
   createCanvas(400, 100);
   //Sets the background to the color black
   background(0);
-  //Leaves jagged edges for shapes
+  //Leaves jagged edges for shape
   noSmooth();
 }
 
